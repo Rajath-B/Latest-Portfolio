@@ -1,0 +1,28 @@
+body {
+    width: 100%;
+    margin: 0%;
+    font-family: Arial;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.left{
+    width: 20%;
+    padding-left: 10%;
+}
+
+.right {
+    width: 20%;
+    align-self: center;
+    padding-right: 10%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.right a {
+    font-size: 12px;
+}

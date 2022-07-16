@@ -1,0 +1,7 @@
+h1 - Portfolio, Nathalia, What I do, My skills and tools, hope you found my Portfolio interesting
+
+h6 -  (context under what i do (topic name))
+
+
+
+a - about, projects , contact,
